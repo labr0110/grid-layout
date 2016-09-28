@@ -21,7 +21,15 @@ body {
   margin: 0;
 }
 
-.images {
+.img-flex {
   display: block;
   width: 100%;
+}
+
+.unit {
+  float: left;
+}
+
+.grid {
+  overflow: hidden;
 }
